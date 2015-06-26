@@ -124,3 +124,7 @@ Create uses [Travis](http://travis-ci.org/) for continuous integration. Simply a
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/bergie/create/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/bartuspan/create/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
